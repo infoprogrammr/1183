@@ -7,7 +7,8 @@ public class Challenge {
 		Scanner scanner = new Scanner(System.in); 
 		System.out.println("What is your name: "); 
 		String name = scanner.next();
-		String echo = ""; 
+        String echo = ""; 
+        System.out.println("print something...");
 		///{ 
 	 
 		//start your coding here  
